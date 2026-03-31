@@ -1,9 +1,8 @@
-// Main entry point for the application
-import AI from './ai';
+// main.js
 
-const main = () => {
-    const agent = new AI();
-    agent.initialize();
+// Initialization function for AI
+export const initializeAI = () => {
+    // Your initialization logic here
 };
 
-main();
+// Other code...
