@@ -1,0 +1,1 @@
+{"name": "ai-studio-mobile","version": "1.0.0","author": "peymargh","scripts": {"start": "react-native start","build": "react-native build","android": "react-native run-android","ios": "react-native run-ios","docker": "docker build -t ai-studio-mobile ."}}
